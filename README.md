@@ -1,12 +1,12 @@
-# Senior  Functional Consultant Example
+# 1. Senior  Functional Consultant Example
 
-*
+* Created a comprehensive training guide for output increment for multiple end-users which generated the expected revenue increment.
 
-*
+* Analyzed the circulation of monetary and supply chain to ensure it follows the venture operation ethics.
 
-*
+* Provided leadership role by ensuring the usage of D365 finance and operations were  executed for clients.
 
-*
+* Researched on ways complex issues could be resolved quickly, while providing support were necessary or needed.
 
 
 
